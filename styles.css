@@ -1,0 +1,7 @@
+ /* Estilos básicos para que el ejemplo funcione */
+ #text2 {
+    display: none; /* Ocultar el segundo div inicialmente */
+}
+#img {
+    transition: width 0.3s ease; /* Añadir transición suave al agrandar la imagen */
+}
